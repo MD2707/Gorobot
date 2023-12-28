@@ -167,7 +167,7 @@ export const dataQuotes = [
     "T'es pas la luciole la plus étincelante de la nuit.",
     "T'es pas le voilier le plus rapide du port.",
     "T'es pas l'arc-en-ciel le plus coloré du ciel.",
-    "T'es pas la Jade la plus verte de la caverne. <3",
+    "T'es pas la Jade la plus verte de la caverne. merci Jade pour l'idée :)",
     "Tu n'est pas la fleur la plus parfumée du bouquet.",
     "Tu n'est pas le pokemon le plus rare",
     "Tu n'est pas le whisky le plus tourbé",
